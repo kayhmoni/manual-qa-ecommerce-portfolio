@@ -1,7 +1,7 @@
 # Manual QA Portfolio: E-Commerce Web App Testing
 This project demonstrates my manual QA testing skills through test planning, test case design, bug reporting, API testing concepts, and SQL validation for an e-commerce application.
 
-This portfolio demonstrates practical manual software testing skills using a public e-commerce demo application such as SauceDemo or OpenCart Demo.
+
 
 ## Project Goal
 
