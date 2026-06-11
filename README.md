@@ -1,4 +1,5 @@
 # Manual QA Portfolio: E-Commerce Web App Testing
+This project demonstrates my manual QA testing skills through test planning, test case design, bug reporting, API testing concepts, and SQL validation for an e-commerce application.
 
 This portfolio demonstrates practical manual software testing skills using a public e-commerce demo application such as SauceDemo or OpenCart Demo.
 
@@ -53,4 +54,13 @@ Upload these files to a GitHub repository named something like:
 In your resume, add:
 
 Manual QA Portfolio: Designed and documented a complete QA testing project for an e-commerce web app, including test plan, 25 manual test cases, sample bug reports, API testing checklist, and SQL validation examples.
+
+## Project Files
+
+- [Test Plan](test-plan.md)
+- [Test Cases](test-cases.md)
+- [Bug Reports](bug-reports.md)
+- [API Testing Checklist](api-testing-checklist.md)
+- [SQL Practice](sql-practice.md)
+- [Remote QA Job Search Strategy](remote-qa-job-search.md)
 
