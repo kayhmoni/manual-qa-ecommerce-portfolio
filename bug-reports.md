@@ -129,3 +129,4 @@ Impact:
 
 Mobile users may not be able to read cart contents or proceed comfortably.
 
+Note: Sample bug based on exploratory testing”
